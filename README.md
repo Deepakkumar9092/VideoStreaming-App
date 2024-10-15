@@ -1,4 +1,7 @@
+
 A video streaming app allows users to watch video content in real-time without downloading it. Key features often include:
+![streamingapp](https://github.com/user-attachments/assets/094395ac-f7d8-435a-a0da-838225b6c9dc)
+
 
 Content Delivery: Videos are delivered using streaming protocols like HTTP Live Streaming (HLS) or Dynamic Adaptive Streaming over HTTP (DASH), ensuring smooth playback by adjusting video quality based on network conditions.
 
@@ -12,4 +15,4 @@ Video Playback Features: Includes play, pause, seek, subtitles, and volume contr
 
 Backend Architecture: Typically built using cloud services for storage, content delivery networks (CDN) for fast media access, and databases for user data management.
 
-![Uploading streamingapp.png…]()
+
